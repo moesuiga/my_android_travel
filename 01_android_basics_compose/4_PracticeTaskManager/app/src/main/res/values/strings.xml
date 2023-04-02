@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practice Task Manager</string>
+    <string name="tasks_completed_text">All tasks completed</string>
+    <string name="nice_work_text">Nice work!</string>
+</resources>
